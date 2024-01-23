@@ -1,0 +1,30 @@
+.we-will-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.we-will-title{
+    font-size: 24px;
+    color: #141414;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    text-transform: uppercase;
+    letter-spacing: -0.96px;
+}
+
+.input-container {
+}
+.we-will-paragraf {
+}
+.we-will-form {
+}
+.input-wrap {
+}
+.modal-input {
+}
+.input-button {
+}
+.img-container {
+}
